@@ -2,6 +2,7 @@ change the first line of test3.txt in dev_new branch
 
 this is test3.txt, which is created in dev_new branch.
 
-add one line in test3.txt in dev_new branch
+keep one line: add one line in test3.txt in dev_new branch
 
 
+keep one line: add one line in dev_new2 branch.
